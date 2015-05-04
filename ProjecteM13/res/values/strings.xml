@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProjecteM13</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_principal_ctrl">Principal</string>
+    <string name="action_settings">Opcións</string>
+    <string name="action_search">Buscar</string>
+    <string name="drawer_open">Obrir</string>
+    <string name="drawer_close">Tancar</string>
+    <string name="nav_item_principal">Principal</string>
+    <string name="nav_item_productes">Productes</string>
+    <string name="nav_item_clients">Clients</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_principal</item>
+        <item>@string/nav_item_productes</item>
+        <item>@string/nav_item_clients</item>
+    </string-array>
+
+    <string name="title_principal">Principal</string>
+    <string name="title_productes">Productes</string>
+    <string name="title_clients">Clients</string>
+    <string name="title_activity_barra_navegacio_adapter">BarraNavegacioAdapter</string>
+    <string name="title_activity_fragment_drawer">FragmentDrawer</string>
+    <string name="title_activity_productes_ctrl">Productes</string>
+    <string name="title_activity_client_ctrl">Client_ctrl</string>
+
+</resources>
